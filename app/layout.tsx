@@ -10,8 +10,8 @@ import { AnimatedBackground } from "@/components/animated-background"
 const firaCode = Fira_Code({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "michael-weaver | Front-end Developer",
-  description: "Front-end Developer Portfolio",
+  title: "DevFolio | Raisul R.",
+  description: "Raisul R. Portfolio",
     generator: 'v0.app'
 }
 
